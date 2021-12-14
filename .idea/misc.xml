@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/etbg.xml" value="0.2703125" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
         <entry key="..\:/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/input_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/sample_updatetask.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/sampletask_show.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

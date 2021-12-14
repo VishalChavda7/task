@@ -24,6 +24,14 @@ ActivityMainBinding binding;
 FirebaseAuth auth;
 FirebaseDatabase database;
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        FirebaseUser user = auth.getCurrentUser();
+        if (user!=null){
+            startActivity(new Intent(MainActivity.this,ActivityHome.class));
+        }
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
